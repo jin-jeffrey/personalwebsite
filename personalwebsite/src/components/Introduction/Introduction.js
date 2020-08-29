@@ -12,10 +12,10 @@ class Introduction extends React.Component {
             <container className = "intro">
                 <div className = "name">Jeffrey Jin</div>
                 <div className = "logos">
-                    <a class="logo" href="https://www.linkedin.com/in/mr-jeffrey-jin/"><img src={linkedIn} alt="LinkedIn icon"/></a>
-                    <a class="logo" href="https://github.com/jin-jeffrey"><img src={github} alt="Github icon"/></a>
-                    <a class="logo" href="https://github.com/jin-jeffrey"><img src={code} alt="Code icon"/></a>
-                    <a class="logo" href="https://github.com/jin-jeffrey"><img src={resume} alt="Resume icon"/></a>
+                    <a className="logo" href="https://www.linkedin.com/in/mr-jeffrey-jin/"><img src={linkedIn} alt="LinkedIn icon"/></a>
+                    <a className="logo" href="https://github.com/jin-jeffrey"><img src={github} alt="Github icon"/></a>
+                    <a className="logo" href="https://github.com/jin-jeffrey"><img src={code} alt="Code icon"/></a>
+                    <a className="" href="https://github.com/jin-jeffrey"><img src={resume} alt="Resume icon"/></a>
                 </div>
             </container>
         );

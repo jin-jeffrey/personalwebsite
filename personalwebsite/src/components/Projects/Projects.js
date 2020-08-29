@@ -4,8 +4,8 @@ import './Projects.css';
 class Projects extends React.Component {
     render(){
         return(
-            <container>
-                <div className = "projectTitle">Projects</div>
+            <container className="projects">
+                <div className="projectTitle">Projects</div>
             </container>
         );
     }

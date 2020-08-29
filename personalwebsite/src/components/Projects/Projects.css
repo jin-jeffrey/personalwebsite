@@ -1,7 +1,15 @@
-.projectTitle {
-    text-align:center;
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+.projects {
+    display:block;
+    margin-top: 3vh;
 }
 
-container {
-    display:flex;
+.projectTitle {
+    font-family: 'Manrope', sans-serif;
+    font-size: 6vh;
+    text-align:center;
 }

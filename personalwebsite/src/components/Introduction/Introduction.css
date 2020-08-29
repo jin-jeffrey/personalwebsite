@@ -1,25 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 .intro {
-    position: absolute;
+    display:block;
     left: 0;
     right:0;
+    top:0;
     background:beige;
     text-align:center;
     height:75vh;
 }
 
 .name {
-    font-size:10vh;
-    margin-top:25vh;
+    font-family:'Bebas Neue';
+    font-size:15vh;
+    padding-top:20vh;
 }
 
 .logos {
-    margin-top:3vh;
+    margin-top:5vh;
     display:flex;
     justify-content:center;
 }
 
 .logo {
-    margin-left: 2vh;
+    margin-right: 2vh;
 }
 
 img {
