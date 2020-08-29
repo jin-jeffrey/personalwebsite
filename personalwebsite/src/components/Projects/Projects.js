@@ -5,7 +5,11 @@ class Projects extends React.Component {
     render(){
         return(
             <container className="projects">
-                <div className="projectTitle">Projects</div>
+                <div className="projectTitle">PROJECTS</div>
+                <div className="projectList">
+                    <div className="project">
+                    </div>
+                </div>
             </container>
         );
     }
