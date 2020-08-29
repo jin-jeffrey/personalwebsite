@@ -1,11 +1,14 @@
 import React from 'react';
 import './App.css';
-import Introduction from './components/Introduction';
+import Introduction from './components/Introduction/Introduction';
+// import Projects from './components/Projects/Projects';
 
 class App extends React.Component{
   render() {
     return(
-      <Introduction />
+      <main>
+        <Introduction />
+      </main>
     )
   }
 }

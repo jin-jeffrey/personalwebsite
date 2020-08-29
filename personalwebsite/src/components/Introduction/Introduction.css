@@ -1,0 +1,27 @@
+.intro {
+    position: absolute;
+    left: 0;
+    right:0;
+    background:beige;
+    text-align:center;
+    height:75vh;
+}
+
+.name {
+    font-size:10vh;
+    margin-top:25vh;
+}
+
+.logos {
+    margin-top:3vh;
+    display:flex;
+    justify-content:center;
+}
+
+.logo {
+    margin-left: 2vh;
+}
+
+img {
+    width: 7vh
+}
