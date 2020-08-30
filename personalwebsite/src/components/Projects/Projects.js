@@ -13,11 +13,11 @@ class Projects extends React.Component {
                     <Card>
                         <Card.Img variant="top" src={invm}></Card.Img>
                         <Card.Body>
-                            <Card.Title>INVM: Project Manager</Card.Title>
+                            <Card.Title>INVM: Inventory Manager</Card.Title>
                             <Card.Text>
                                 INVM is a webapp
                             </Card.Text>
-                            <Card.Footer>Written using Python and Flask</Card.Footer>
+                            <Card.Footer class="text-muted">Written using Python and Django</Card.Footer>
                         </Card.Body>
                     </Card>
                     <Card>
