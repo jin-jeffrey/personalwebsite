@@ -1,26 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
-.projects {
-    display:block;
-    margin-top: 5vh;
-}
-
 .projectTitle {
     font-family: 'Manrope', sans-serif;
     font-size: 6vh;
     text-align:center;
-}
-
-.projectList {
-    display:flex;
-}
-
-.projectPicture {
-    width:75vh;
-}
-
-.project {
-    margin-top:5vh;
-    left:0;
-    right: 0;
 }
