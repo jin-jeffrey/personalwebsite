@@ -1,6 +1,8 @@
 import React from 'react';
 import Card from '../Card/Card.js'
 import INVM from './media/INVM.png';
+import google from './media/google.png';
+import BG from './media/bg-gen.png';
 import './Projects.css';
 
 
@@ -12,12 +14,16 @@ class Projects extends React.Component {
                 <div className="proj-group">
                     <div className="proj-item"><Card imgsrc={INVM} alt="INVM" name="INVM: Inventory Manager"
                     link="https://www.invm.dev"
-                    tech="HTML5, CSS3, Python, Django, Bootstrap"
+                    tech="HTML, CSS, Python, Django, Bootstrap"
                     description="A webapp designed to help resellers track inventory, sales, and profits. Users can add items, specify item details, and log transactions. "/></div>
-                    <div className="proj-item"><Card imgsrc="" alt="Google" name="Google Activity Generator"
+                    <div className="proj-item"><Card imgsrc={google} alt="Google" name="Google Automated Activity"
                     link="https://github.com/jin-jeffrey/gmail-activity"
                     tech="Python, Selenium"
-                    description="A python project used to fully automate activity on a gmail account. Functionality include signing in, searching Google for articles and images, and watching videos on Youtube."/></div>
+                    description="A python project used to create activity on a gmail account. Includes signing in, searching Google, and watching videos on Youtube."/></div>
+                    <div className="proj-item"><Card imgsrc={BG} alt="BG Generator" name="Background Generator"
+                    link="https://github.com/jin-jeffrey/gmail-activity"
+                    tech="Javascript, HTML, CSS"
+                    description="A background generator that allows users to select two colors, display the gradient, and provide the CSS."/></div>
                 </div>
             </container>
         );

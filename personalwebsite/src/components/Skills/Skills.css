@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
+
+.skills {
+    display:block;
+}
+
+.skillsTitle {
+    font-family: 'Manrope', sans-serif;
+    font-size: 6vh;
+    text-align:center;
+    margin-bottom:2 vh;
+}
