@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope&display=swap');
 
-.skills {
+.footer {
+    background: beige;
     display:block;
-}
-
-.skillsTitle {
-    font-family: 'Manrope', sans-serif;
-    font-size: 6vh;
     text-align:center;
-    margin-bottom:2 vh;
+    font-family: 'Manrope', sans-serif;
+    font-size: 2vh;
 }
