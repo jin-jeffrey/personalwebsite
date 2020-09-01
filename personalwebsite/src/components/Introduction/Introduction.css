@@ -23,7 +23,12 @@
 }
 
 .logo {
-    margin-right: 5vh;
+    opacity:1;
+    transition: all .3s ease-out;
+}
+
+.logo:hover{
+    transform: translate(0, -5px);
 }
 
 .icon {

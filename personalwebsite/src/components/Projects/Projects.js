@@ -21,7 +21,7 @@ class Projects extends React.Component {
                     tech="Python, Selenium"
                     description="A python project used to create activity on a gmail account. Includes signing in, searching Google, and watching videos on Youtube."/></div>
                     <div className="proj-item"><Card imgsrc={BG} alt="BG Generator" name="Background Generator"
-                    link="https://github.com/jin-jeffrey/gmail-activity"
+                    link="https://jin-jeffrey.github.io/background-generator/"
                     tech="Javascript, HTML, CSS"
                     description="A background generator that allows users to select two colors, display the gradient, and provide the CSS."/></div>
                 </div>
