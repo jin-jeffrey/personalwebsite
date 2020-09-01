@@ -1,18 +1,17 @@
 import React from 'react';
-import Introduction from './components/Introduction/Introduction';
-import Projects from './components/Projects/Projects';
-import Footer from './components/Footer/Footer';
+import { BrowserRouter, Route } from 'react-router-dom';
+import Main from './components/Main/Main'
+import Resume from './components/Resume/Resume.js';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 class App extends React.Component{
   render() {
-    return(
-      <main>
-        <Introduction />
-        <Projects />
-        <Footer />
-      </main>
+    return( 
+      <BrowserRouter>
+        <Route path="/" exact component={Main}></Route>
+        <Route path="/resume" exact component={Resume}></Route>
+      </BrowserRouter>
     )
   }
 }
