@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79a5b192.chunk.css",
+    "main.js": "/static/js/main.e0db191f.chunk.js",
+    "main.js.map": "/static/js/main.e0db191f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b353301.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b353301.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.8ced6740.chunk.js": "/static/js/2.8ced6740.chunk.js",
+    "static/js/2.8ced6740.chunk.js.map": "/static/js/2.8ced6740.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd4e87a100a15c1735fa77f73374ab85.js": "/precache-manifest.dd4e87a100a15c1735fa77f73374ab85.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.79a5b192.chunk.css.map": "/static/css/main.79a5b192.chunk.css.map",
+    "static/js/2.8ced6740.chunk.js.LICENSE.txt": "/static/js/2.8ced6740.chunk.js.LICENSE.txt",
+    "static/media/INVM.png": "/static/media/INVM.62e0444e.png",
+    "static/media/bg-gen.png": "/static/media/bg-gen.96bcb066.png",
+    "static/media/code.png": "/static/media/code.920850c5.png",
+    "static/media/github.png": "/static/media/github.4e66e46d.png",
+    "static/media/google.png": "/static/media/google.99eb7202.png",
+    "static/media/linkedin.png": "/static/media/linkedin.2b58af2f.png",
+    "static/media/resume.pdf": "/static/media/resume.9885e19a.pdf",
+    "static/media/resume.png": "/static/media/resume.99133fe4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b353301.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.8ced6740.chunk.js",
+    "static/css/main.79a5b192.chunk.css",
+    "static/js/main.e0db191f.chunk.js"
+  ]
+}
