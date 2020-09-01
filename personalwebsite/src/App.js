@@ -10,7 +10,7 @@ class App extends React.Component{
     return( 
       <BrowserRouter>
         <Route path="/" exact component={Main}></Route>
-        <Route path="/resume" exact component={Resume}></Route>
+        <Route path={process.env.PUBLIC_URL + '/resume'} exact component={Resume}></Route>
       </BrowserRouter>
     )
   }
