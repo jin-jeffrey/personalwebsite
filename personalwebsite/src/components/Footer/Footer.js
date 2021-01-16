@@ -7,7 +7,7 @@ class Footer extends React.Component {
         return(
             <container className="footer mt-5">
                 <div className="p-5">
-                    Designed by <a className="text-dark" href="https://linkedin.com/mr-jeffrey-jin" target="_blank" rel="noopener noreferrer"><u>Jeffrey Jin</u></a>
+                    Designed by <a className="text-dark" href="https://linkedin.com/in/mr-jeffrey-jin" target="_blank" rel="noopener noreferrer"><u>Jeffrey Jin</u></a>
                     <br />
                     <small>Open to Public Use</small>
                 </div>
