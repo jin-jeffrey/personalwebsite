@@ -13,7 +13,7 @@ class Projects extends React.Component {
                 <div className="projectTitle mb-5">PROJECTS</div>
                 <div className="proj-group">
                     <div className="proj-item"><Card imgsrc={INVM} alt="INVM" name="INVM: Inventory Manager"
-                    link="https://www.invm.dev"
+                    link="https://github.com/jin-jeffrey/inventory"
                     tech="HTML, CSS, Python, Django, Bootstrap"
                     description="A webapp designed to help resellers track inventory, sales, and profits. Users can add items, specify item details, and log transactions. "/></div>
                     <div className="proj-item"><Card imgsrc={google} alt="Google" name="Google Automated Activity"
