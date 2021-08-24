@@ -15,4 +15,4 @@ $ npm install
 ```bash
 $ npm start
 ```
-The site should be running on [http://0.0.0.0:3000](http://0.0.0.0:3000)\
+The site should be running on [http://0.0.0.0:3000](http://0.0.0.0:3000)
